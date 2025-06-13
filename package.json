@@ -1,0 +1,49 @@
+{
+  "name": "modern-tic-tac-toe",
+  "version": "1.0.0",
+  "description": "🌈 Modern, sleek, and beautiful tic-tac-toe game with React + Tailwind + ShadCN + Framer Motion",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "next": "^14.0.4",
+    "framer-motion": "^10.16.16",
+    "lottie-react": "^2.4.0",
+    "lucide-react": "^0.303.0",
+    "@heroicons/react": "^2.0.18",
+    "@radix-ui/react-slot": "^1.0.2",
+    "@radix-ui/react-dialog": "^1.0.5",
+    "@radix-ui/react-toast": "^1.1.5",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.0.0",
+    "tailwind-merge": "^2.2.0",
+    "tailwindcss-animate": "^1.0.7"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "@types/node": "^20.10.6",
+    "@types/react": "^18.2.46",
+    "@types/react-dom": "^18.2.18",
+    "eslint": "^8.56.0",
+    "eslint-config-next": "^14.0.4",
+    "tailwindcss": "^3.4.0",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.32"
+  },
+  "keywords": [
+    "react",
+    "nextjs", 
+    "tailwindcss",
+    "framer-motion",
+    "tic-tac-toe",
+    "game",
+    "modern",
+    "beautiful"
+  ]
+} 
