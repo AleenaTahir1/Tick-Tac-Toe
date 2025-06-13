@@ -12,7 +12,7 @@
 
 *Experience gaming like never before with beautiful animations, sleek design, and smooth interactions*
 
-[🎮 Play Live Demo](http://localhost:3001) • [🚀 Features](#-features) • [🛠️ Tech Stack](#️-tech-stack) • [⚡ Quick Start](#-quick-start)
+[🎮 Play Live Demo](https://aleenata hair1.github.io/Tick-Tac-Toe/) • [🚀 Features](#-features) • [🛠️ Tech Stack](#️-tech-stack) • [⚡ Quick Start](#-quick-start)
 
 </div>
 

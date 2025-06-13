@@ -132,11 +132,11 @@ const Confetti = ({ isVisible }: { isVisible: boolean }) => {
       initial={{
         x: Math.random() * windowSize.width,
         y: -50,
-        rotation: 0
+        rotate: 0
       }}
       animate={{
         y: windowSize.height + 50,
-        rotation: 720,
+        rotate: 720,
         x: Math.random() * windowSize.width
       }}
       transition={{
