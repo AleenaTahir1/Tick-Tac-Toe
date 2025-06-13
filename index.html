@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🌈 Tic-Tac-Toe 🌈</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Sparkles Animation -->
+        <div class="sparkles">
+            <span class="sparkle">✨</span>
+            <span class="sparkle">🌟</span>
+            <span class="sparkle">💫</span>
+            <span class="sparkle">⭐</span>
+            <span class="sparkle">🌠</span>
+            <span class="sparkle">✨</span>
+            <span class="sparkle">🌟</span>
+            <span class="sparkle">💫</span>
+        </div>
+        
+        <!-- Game Header -->
+        <header class="game-header">
+            <h1 class="game-title">🌈 Tic-Tac-Toe 🌈</h1>
+            <p class="game-subtitle"> Beautiful & Animated </p>
+        </header>
+
+        <!-- Game Status -->
+        <div class="status-container">
+            <h2 id="game-status" class="game-status">🎮 Player ❌'s Turn 🎮</h2>
+        </div>
+
+        <!-- Game Board -->
+        <div class="game-board" id="game-board">
+            <div class="cell" data-index="0"></div>
+            <div class="cell" data-index="1"></div>
+            <div class="cell" data-index="2"></div>
+            <div class="cell" data-index="3"></div>
+            <div class="cell" data-index="4"></div>
+            <div class="cell" data-index="5"></div>
+            <div class="cell" data-index="6"></div>
+            <div class="cell" data-index="7"></div>
+            <div class="cell" data-index="8"></div>
+        </div>
+
+        <!-- Controls -->
+        <div class="controls">
+            <button id="reset-btn" class="reset-button"> New Game 🔄</button>
+        </div>
+
+        <!-- Victory Modal -->
+        <div id="victory-modal" class="victory-modal hidden">
+            <div class="victory-content">
+                <h2 id="victory-message" class="victory-message"></h2>
+                <div class="victory-emojis">🎉🎊🏆🎊🎉</div>
+                <button id="play-again-btn" class="play-again-button">🎮 Play Again 🎮</button>
+            </div>
+        </div>
+
+        <!-- Floating Hearts -->
+        <div class="floating-hearts">
+            <span class="heart">💖</span>
+            <span class="heart">💕</span>
+            <span class="heart">💗</span>
+            <span class="heart">💖</span>
+            <span class="heart">💕</span>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html> 
