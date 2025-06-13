@@ -12,7 +12,7 @@
 
 *Experience gaming like never before with beautiful animations, sleek design, and smooth interactions*
 
-[🎮 Play Live Demo](https://aleenata hair1.github.io/Tick-Tac-Toe/) • [🚀 Features](#-features) • [🛠️ Tech Stack](#️-tech-stack) • [⚡ Quick Start](#-quick-start)
+[🎮 Play Live Demo](https://aleenatahir1.github.io/Tick-Tac-Toe/) • [🚀 Features](#-features) • [🛠️ Tech Stack](#️-tech-stack) • [⚡ Quick Start](#-quick-start)
 
 </div>
 
@@ -89,7 +89,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/AleenaTahir1/Tick-Tac-Toe.git
+git clone https://github.com/aleenatahir1/Tick-Tac-Toe.git
 cd Tick-Tac-Toe
 
 # Install dependencies
@@ -205,11 +205,11 @@ We welcome contributions! Here's how you can help:
 
 <div align="center">
 
-**Built with ❤️ by [Aleena Tahir](https://github.com/AleenaTahir1)**
+**Built with ❤️ by [Aleena Tahir](https://github.com/aleenatahir1)**
 
 ⭐ **Star this repo if you found it helpful!** ⭐
 
-[![GitHub stars](https://img.shields.io/github/stars/AleenaTahir1/Tick-Tac-Toe?style=social)](https://github.com/AleenaTahir1/Tick-Tac-Toe/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/AleenaTahir1/Tick-Tac-Toe?style=social)](https://github.com/AleenaTahir1/Tick-Tac-Toe/network)
+[![GitHub stars](https://img.shields.io/github/stars/aleenatahir1/Tick-Tac-Toe?style=social)](https://github.com/aleenatahir1/Tick-Tac-Toe/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/aleenatahir1/Tick-Tac-Toe?style=social)](https://github.com/aleenatahir1/Tick-Tac-Toe/network)
 
 </div> 

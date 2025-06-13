@@ -7,6 +7,8 @@ const nextConfig = {
     domains: ['assets.lottiefiles.com'],
   },
   distDir: 'docs',
+  basePath: '/Tick-Tac-Toe',
+  assetPrefix: '/Tick-Tac-Toe/',
 }
 
 module.exports = nextConfig 
