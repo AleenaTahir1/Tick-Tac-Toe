@@ -1,4 +1,4 @@
-# 🌈✨ Modern Tic-Tac-Toe Game ✨🌈
+#  Tic-Tac-Toe Game 
 
 <div align="center">
 
@@ -15,14 +15,6 @@
 [🎮 Play Live Demo](https://aleenata hair1.github.io/Tick-Tac-Toe/) • [🚀 Features](#-features) • [🛠️ Tech Stack](#️-tech-stack) • [⚡ Quick Start](#-quick-start)
 
 </div>
-
----
-
-## 🎮 Game Preview
-
-https://github.com/AleenaTahir1/Tick-Tac-Toe/assets/your-username/demo.gif
-
-*Beautiful, animated, and responsive tic-tac-toe game with modern UI/UX*
 
 ---
 
@@ -191,14 +183,6 @@ We welcome contributions! Here's how you can help:
 4. **Push** to the branch (`git push origin feature/amazing-feature`)
 5. **Open** a Pull Request
 
-### Development Guidelines
-- Use **TypeScript** for type safety
-- Follow **ESLint** configuration
-- Write **descriptive commit messages**
-- Test on **multiple devices**
-
----
-
 ## 📱 Browser Support
 
 - ✅ **Chrome** 88+
@@ -206,19 +190,6 @@ We welcome contributions! Here's how you can help:
 - ✅ **Safari** 14+
 - ✅ **Edge** 88+
 - ✅ **Mobile browsers**
-
----
-
-## 🔮 Future Enhancements
-
-- [ ] **AI Opponent** - Single player mode with smart AI
-- [ ] **Online Multiplayer** - Real-time multiplayer with WebSockets
-- [ ] **Game Themes** - Multiple color schemes and themes
-- [ ] **Sound Effects** - Audio feedback for interactions
-- [ ] **Tournament Mode** - Best of series gameplay
-- [ ] **Leaderboards** - Global and local high scores
-- [ ] **Custom Board Sizes** - 4x4, 5x5 variants
-- [ ] **Accessibility** - Enhanced screen reader support
 
 ---
 
